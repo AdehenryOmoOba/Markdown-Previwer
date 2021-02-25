@@ -1,0 +1,21 @@
+#root {
+  background-color: #7ed6df;
+}
+.container {
+  min-height: 100vh;
+  width: 100vw;
+}
+.preview {
+  background-color: #fff;
+}
+textarea,
+.preview {
+  min-height: 400px;
+}
+.preview {
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.preview img {
+  max-width: 100%;
+}
